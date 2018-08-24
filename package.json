@@ -1,12 +1,11 @@
 {
   "name": "warm-or-not-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI app that gives you the weather forecast",
   "license": "MIT",
-  "homepage": "https://github.com/timberio/outside-cli#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timberio/outside-cli.git"
+    "url": "git+https://github.com/mateusz-bielak/warm-or-not-cli.git"
   },
   "engines": {
     "node": ">=8"
